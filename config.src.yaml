@@ -1,0 +1,6 @@
+database:
+    host: localhost
+    user: root
+    port: 3306
+    password: m2012rstecno
+    databaseName: pizza_delivery
